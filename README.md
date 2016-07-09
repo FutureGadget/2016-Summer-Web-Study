@@ -45,6 +45,18 @@
 		</li>
 	</ul>
 </li>
-
 </ul>
-<br>
+<hr>
+<h1>Front-end Study Materials</h1>
+<ul>
+	<li>
+		<h5>Design</h5>
+		<ul>
+			<li><a href="https://fonts.google.com">구글 폰트</a></li>
+			<li><a href="https://design.google.com/icons/">구글 아이콘</a></li>
+			<li><a href="https://material.google.com/style/color.html#color-color-palette">구글 디자인 색상 팔레트</a></li>
+		</ul>
+	</li>
+</ul>
+<hr>
+<h1>Back-end Study Materials</h1>
