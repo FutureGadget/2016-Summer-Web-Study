@@ -14,6 +14,14 @@
 	</ul>
 </li>
 <li>
+	<h5>Commit and Push</h5>
+	<ul>
+		<li>git add 'File_Name' 또는 git add *(모든파일)</li>
+		<li>git commit -m "커밋메시지"</li>
+		<li>git push</li>
+	</ul>
+</li>
+<li>
 	<h5>Directory 또는 File 이름 변경</h5>
  	<ul>
  		<li>git mv 'ORIGINAL_NAME' 'NEW_NAME'</li>
