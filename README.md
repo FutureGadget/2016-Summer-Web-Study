@@ -1,2 +1,1 @@
-# 2016-Summer-Web-Study 
-dw's branch
+# 2016-Summer-Web-Study
