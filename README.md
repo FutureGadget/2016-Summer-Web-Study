@@ -10,10 +10,10 @@
  \>\>git checkout gh-pages
 
 *작업 폴더 생성<br>
- \>\>mkdir <FOLDER_NAME>
+ \>\>mkdir \<FOLDER_NAME\>
 
 *Directory 또는 File 이름 변경<br>
- \>\>git mv <ORIGINAL_NAME> <NEW_NAME>
+ \>\>git mv \<ORIGINAL_NAME\> \<NEW_NAME\>
 
 *Branch 삭제
  -Local Repository의 브랜치 삭제 (삭제 위치는 삭제하려는 branch가 아닌 곳에서 해야함)<br>
