@@ -5,8 +5,9 @@
 #heading {
   text-align: center;
   font-weight: bold;
+  font-family: 'Galada', cursive, sans-serif;
   font-size: 1.75em;
-  margin-top: 20px;
+  margin-top: 50px;
   margin-bottom: 50px;
 }
 p {
