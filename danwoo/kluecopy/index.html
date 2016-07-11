@@ -6,7 +6,6 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="./css/styles.css">
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
 	<title>KLUE - Korea University Lecture Evaluation</title>
 </head>
 <body>
@@ -21,22 +20,25 @@
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					<form id="searchform" class="navbar-form navbar-left" role="search">
 						<div class="form-group-lg pull-left">
-							<input type="text" class="form-control" placeholder="Search">
+							<input size="35px" type="text" class="form-control" placeholder="강의명, 학수번호, 교수명으로 빠른검색">
 						</div>
-						<button type="submit" class="btn-lg btn-default">Submit</button>
+						<button type="submit" class="btn-lg btn-default">고급검색</button>
 					</form>
 					<ul class="nav navbar-nav navbar-right">
 						<li><a href="#"><span class="glyphicon glyphicon-time"></span></a></li>
-						<li><a><div id="time">21 : 11 : 14</div></a></li>
+						<li><a><div id="time"></div></a></li>
 						<li><a href="#"><span class="glyphicon glyphicon-bell"></span></a></li>
 						<li class="dropdown">
 							<a href="#" data-toggle="dropdown" role="button"><span class="glyphicon glyphicon-menu-hamburger"></span></a>
 							<ul class="dropdown-menu">
-								<li><a href="#">Action</a></li>
-								<li><a href="#">Another action</a></li>
-								<li><a href="#">Something else here</a></li>
+								<li><a href="#">내 정보</a></li>
+								<li><a href="#">내 강의평</a></li>
 								<li role="separator" class="divider"></li>
-								<li><a href="#">Separated link</a></li>
+								<li><a href="#">서버 시간 확인</a></li>
+								<li><a href="#">고급 검색</a></li>
+								<li><a href="#">신고/문의하기</a></li>
+								<li role="separator" class="divider"></li>
+								<li><a href="#">로그아웃</a></li>
 							</ul>
 						</li>
 					</ul>
