@@ -1,0 +1,48 @@
+.navbar {
+	background-color: #F57C00;
+}
+
+#logo-img {
+	background: url("../images/logo_s_white.png") no-repeat;
+	width: 140px;
+	height: 75px;
+	margin-top: 7px;
+	background-size: 10em;
+}
+
+#searchform input {
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+#searchform button {
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+#clock {
+	margin-top: 2px;
+	margin-right: 2px;
+}
+
+ul .glyphicon {
+	margin-top: 11px;
+	color: white;
+	opacity: 0.7;
+	font-size: 2em;
+}
+
+ul .glyphicon:hover {
+	opacity: 1;
+}
+
+#time {
+	margin-top: 15px;
+	font-size: 2em;
+	color: white;
+	opacity: 0.7;
+}
+
+#time:hover {
+	opacity: 1;
+}
