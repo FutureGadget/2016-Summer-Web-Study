@@ -1,0 +1,36 @@
+*{
+	box-sizing: border-box;
+}
+
+#header-nav{
+	background-color:#ED4C00;
+}
+
+#logo-img{
+	background:url('../images/logo_s_white.png') no-repeat;
+	width:100px;
+	height:40px;
+	margin-top: 5px;
+}
+
+#searchbar{
+	margin-top: 5px;
+}
+
+#nav-list div{
+	margin-top:5px;
+	color:white;
+	opacity:0.7;
+	font-size:16px;
+}
+
+.glyphicon{
+	font-size:1.8em;
+	color:white;
+	opacity:0.7;
+}
+
+.glyphicon:hover, #nav-list div:hover{
+	color:white;
+	opacity:1;
+}
