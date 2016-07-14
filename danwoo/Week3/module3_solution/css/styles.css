@@ -49,6 +49,6 @@ section a.back-to-the-top {
 }
 
 /* panel footer */
-.panel-footer {
+#pfooter {
     background: #3E2723;
 }
