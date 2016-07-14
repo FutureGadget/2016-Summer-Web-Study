@@ -1,0 +1,46 @@
+body {
+    background-color: #A1887F;
+    color: #fff;
+    font-family: 'Galada', cursive;
+}
+
+/* Header */
+#header-nav {
+    background: #795548;
+}
+.navbar-header > .navbar-brand {
+    font-size: 2em;
+    color: #fff;
+}
+.navbar button {
+    background: #fff;
+}
+#navbar-menu-list li a {
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+}
+#navbar-menu-list li a:hover {
+    background: #e7e7e7;
+    color: black;
+}
+
+/* Main container */
+#main-container p {
+    height: 1000px;
+}
+
+section a.back-to-the-top {
+    text-decoration: none;
+    font-size: 1.8em;
+    color: #fff;
+}
+
+#main-container section p {
+    background: #BCAAA4;
+    color: #000;
+    border: 1px solid #e7e7e7;
+    box-shadow: 0 1px 3px 1px #000;
+    border-radius: 2px;
+    opacity: 0.7;
+}
