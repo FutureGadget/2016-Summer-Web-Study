@@ -8,6 +8,9 @@ body {
 #header-nav {
     background: #795548;
 }
+#brand-link:hover {
+    color: #fff;
+}
 .navbar-header > .navbar-brand {
     font-size: 2em;
     color: #fff;
@@ -43,4 +46,9 @@ section a.back-to-the-top {
     box-shadow: 0 1px 3px 1px #000;
     border-radius: 2px;
     opacity: 0.7;
+}
+
+/* panel footer */
+.panel-footer {
+    background: #3E2723;
 }
